@@ -1,0 +1,11 @@
+Produto,Estoque_Atual,Estoque_Ideal,Vendas_Diarias,Provincia
+Arroz,50,100,10,Maputo
+Feijao,20,50,5,Maputo
+Acucar,5,20,3,Maputo
+Oleo,60,100,8,Maputo
+Farinha,15,50,7,Maputo
+Arroz,40,100,12,Nampula
+Feijao,25,50,6,Nampula
+Acucar,10,20,4,Nampula
+Oleo,50,100,9,Nampula
+Farinha,20,50,5,Nampula
